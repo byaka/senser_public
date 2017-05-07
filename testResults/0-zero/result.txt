@@ -1,0 +1,4 @@
+90% > median	20.5%
+70% > median	20.5%
+55% > median	16%
+Other	         42.9%
