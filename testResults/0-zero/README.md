@@ -1,3 +1,11 @@
+## Results
+| Metric           | Value  |
+|------------------|--------|
+| **90% > median** |  20.5% |
+| **70% > median** |  20.5% |
+| **55% > median** |  16%   |
+| **Other**        |  42.9% |
+
 ## TOC
 * [Параметры словоформ](#%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D1%84%D0%BE%D1%80%D0%BC)
   * [counter <em>(0\.\.N)</em>](#counter-0n)
